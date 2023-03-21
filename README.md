@@ -36,10 +36,10 @@ That qdbp's core feature set can be so naturally wielded to express complex abst
 
 # Table of Contents
 - [Tutorial](#Tutorial)
-- [Rationale](#Rationale)
-- [Demo](#Demo)
-- [Limitations](#Limitations)
-- [Grammar](#Grammar)
+- [Rationale for various design decisions](#Rationale)
+- [A demo of the expressive power of the language](#Demo)
+- [qdbp's limitations](#Limitations)
+- [Formal grammar](#Grammar)
 
 # Tutorial
 ```ocaml
